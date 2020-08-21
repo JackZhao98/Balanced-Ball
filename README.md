@@ -27,7 +27,7 @@ Simulate elastic collision so the ball will bounce on the ice surface. <br/>
 <br/>
 
 ## How to run
-Just simply click [HERE](https://intro-graphics.github.io/team-project-team-wdnmd/)
+Just simply click [HERE](https://jackzhao98.github.io/Balanced-Ball/)
 
 ## How to play
 Keep the ball balced on the floor. **Harder than it looks!**<br> 
